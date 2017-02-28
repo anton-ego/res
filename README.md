@@ -1,2 +1,2 @@
 # res integrations
-# contributions are highly appretiated
+# contributions are highly appreciated
